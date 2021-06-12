@@ -44,6 +44,8 @@ To mark the end of the data that the client send to the server, it should send "
 
 An input example is located in the folder tests in a file named "Server_input.txt".
 
+Files: Server.h, Server.cpp.
+
 ### Main
 
 This program also comes with a main.cpp which run basic tests for the CLI and for the Server.
