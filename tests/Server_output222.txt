@@ -1,0 +1,162 @@
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
+Welcome to the Anomaly Detection Server.
+Please choose an option:
+1.upload a time series csv file
+2.algorithm settings
+3.detect anomalies
+4.display results
+5.upload anomalies and analyze results
+6.exit
+Please choose an option from 1 to 6.
