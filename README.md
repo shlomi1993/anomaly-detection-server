@@ -89,4 +89,4 @@ The numbers are TimeSteps and the Letteres represents correlated features.
 
 Server Client Architecture:
 
-![image](https://user-images.githubusercontent.com/72878018/121783820-84109680-cbb9-11eb-92cf-248ae058cbdd.png)
+![image](https://user-images.githubusercontent.com/72878018/121783836-968ad000-cbb9-11eb-875f-b5ea9d2cff9f.png)
