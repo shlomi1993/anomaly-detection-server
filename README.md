@@ -53,7 +53,40 @@ One can adjust the main and customize it to his needs. For example, it is possib
 
 ## Notes
 
+1. Command Design Pattern is implemented in this project -- In the implementation of the CLI.
+2. This project uses C++ Threads and an example of Client-Server architecture.
+
 ## Screenshots
 
 A Linear Regression line:
 
+![image](https://user-images.githubusercontent.com/72878018/121783670-a7871180-cbb8-11eb-8139-a0c5c0cbc3a4.png)
+
+
+An example of a non-correlative scattering
+
+![image](https://user-images.githubusercontent.com/72878018/121783689-c38ab300-cbb8-11eb-90ae-57da2055987b.png)
+
+
+Command Design Pattern:
+
+![image](https://user-images.githubusercontent.com/72878018/121783737-00ef4080-cbb9-11eb-86fa-1727fa95790b.png)
+
+![image](https://user-images.githubusercontent.com/72878018/121783764-2da35800-cbb9-11eb-82ce-c0190786ec8e.png)
+
+
+How the CLI looks like:
+
+![image](https://user-images.githubusercontent.com/72878018/121783776-414ebe80-cbb9-11eb-9865-65b7429107aa.png)
+
+
+How a correlation looks like:
+
+![image](https://user-images.githubusercontent.com/72878018/121783802-64796e00-cbb9-11eb-9ec4-a0d5b697d9a8.png)
+
+The numbers are TimeSteps and the Letteres represents correlated features.
+
+
+Server Client Architecture:
+
+![image](https://user-images.githubusercontent.com/72878018/121783820-84109680-cbb9-11eb-92cf-248ae058cbdd.png)
