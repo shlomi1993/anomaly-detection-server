@@ -49,7 +49,11 @@ An input example is located in the folder tests in a file named "Server_input.tx
 This program also comes with a main.cpp which run basic tests for the CLI and for the Server.
 One can adjust the main and customize it to his needs. For example, it is possible to create an instance of a server that will serve clients, and act as a real Anomaly Detection Server.
 
-## IDEs, Writers and Tools
+## IDEs and Writers
+
+1. JetBrains CLION
+2. Visual Studio Code
+3. Notepad++
 
 ## Notes
 
