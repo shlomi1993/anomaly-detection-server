@@ -1,4 +1,4 @@
-# AnomalyDetectionServer
+# Anomaly Detection Server
 
 This repository documents my project in the Advanced Programming 1 course at Bar-Ilan University (2nd year).
 In this project I have implemented a Simple Anomaly Detector program which have two main modes. It can be on learning mode, means every information it gets are considered as norm, And it can be on detection mode means the program comapre the new information it gets to the norm and check for anomalies.
